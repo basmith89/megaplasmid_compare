@@ -12,7 +12,7 @@ This repository serves as a holding area for the scripts used in the publication
 2. Script Usage (Under construction)
 
 
-Please feel free to create and issue if any issues arise or bugs are found!
+Please feel free to create an issue if any issues arise or bugs are found!
 
 🐛
 
